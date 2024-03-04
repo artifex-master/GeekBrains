@@ -1,0 +1,14 @@
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\bin\Debug\net7.0\Урок 3. Семинар.exe
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\bin\Debug\net7.0\Урок 3. Семинар.deps.json
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\bin\Debug\net7.0\Урок 3. Семинар.runtimeconfig.json
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\bin\Debug\net7.0\Урок 3. Семинар.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\bin\Debug\net7.0\Урок 3. Семинар.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.AssemblyInfoInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.AssemblyInfo.cs
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.csproj.CoreCompileInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\refint\Урок 3. Семинар.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\Урок 3. Семинар.genruntimeconfig.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Урок 3. Семинар\obj\Debug\net7.0\ref\Урок 3. Семинар.dll

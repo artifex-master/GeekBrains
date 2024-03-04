@@ -1,0 +1,14 @@
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\bin\Debug\net7.0\Task2.exe
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\bin\Debug\net7.0\Task2.deps.json
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\bin\Debug\net7.0\Task2.runtimeconfig.json
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\bin\Debug\net7.0\Task2.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\bin\Debug\net7.0\Task2.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.AssemblyInfoInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.AssemblyInfo.cs
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.csproj.CoreCompileInputs.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\refint\Task2.dll
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.pdb
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\Task2.genruntimeconfig.cache
+D:\Geekbrains. Курс-Fullstack разработчик\Урок 3. Функции\Task2\obj\Debug\net7.0\ref\Task2.dll
